@@ -1,4 +1,4 @@
-# CROP--# 🌾 Crop Recommendation System
+# 🌾 Crop Recommendation System
 
 A beginner-friendly Machine Learning project that recommends the most suitable crops to grow based on soil nutrients and local weather conditions — built with Python and scikit-learn.
 
